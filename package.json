@@ -1,0 +1,16 @@
+{
+  "name": "01_ts_intro_basic_types",
+  "version": "1.0.0",
+  "description": "Typescript project",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "ts": "tsc --watch",
+    "js": "nodemon public/arrays.js"
+  },
+  "author": "M K",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
